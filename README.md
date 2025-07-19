@@ -23,10 +23,10 @@ It allows users to search any city and view live temperature, humidity, and othe
 
 ## 🧰 Tech Stack
 
-- **React.js** – UI development
-- **Vite** – Build tool & dev server
-- **Material UI** – Pre-built UI components
-- **OpenWeatherMap API** – Weather data provider
+- **React.js** 
+- **Vite** 
+- **Material UI** 
+- **OpenWeatherMap API** 
 
 ---
 
