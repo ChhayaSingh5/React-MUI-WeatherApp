@@ -8,6 +8,7 @@ It allows users to search any city and view live temperature, humidity, and othe
 ##  Features
 
 -  City-based weather search
+  
 ->  Shows:
 -  Temperature
 -  Humidity
