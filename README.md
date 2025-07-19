@@ -21,7 +21,7 @@ It allows users to search any city and view live temperature, humidity, and othe
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 - **React.js** 
 - **Vite** 
